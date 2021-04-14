@@ -1,0 +1,49 @@
+.btn.dropdown-toggle  {
+    width:150px;
+    text-align:left;
+}
+
+span.caret {
+    position: absolute;
+    left: 90%;
+    top: 45%;
+}
+
+label {
+    padding-top:5px;
+}
+
+.form-label {
+    padding-left:0px !important;
+}
+
+img {
+    width:140px;
+    height:140px;
+}
+
+.btn-success {
+    background-color: black!important;
+}
+
+.btn-success:hover {
+    background-color: black!important;
+}
+
+img.track {
+    border: 1px solid #8a8a8a;
+}
+.logo{
+    width:100px;
+    height:40px;
+}
+.container1{
+    margin-left: 400px;
+   
+}
+body{
+    background-color: #3b7d4a;
+}
+.navbar{
+    background-color: black!important;
+}
